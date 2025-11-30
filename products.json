@@ -1,0 +1,40 @@
+[{
+    "id": "1",
+    "name": "Product A",
+    "price": 29.99,
+    "short_description": "A great product A.",
+    "detailed_description": "This is a detailed description of Product A.",
+    "stock": {"quantity": 100}
+}
+,{
+    "id": "2",
+    "name": "Product B",
+    "price": 49.99,
+    "short_description": "A great product B.",
+    "detailed_description": "This is a detailed description of Product B.",
+    "stock": {"quantity": 50}
+}
+,{
+    "id": "3",
+    "name": "Product C",
+    "price": 19.99,
+    "short_description": "A great product C.",
+    "detailed_description": "This is a detailed description of Product C.",
+    "stock": {"quantity": 200}
+}
+,{
+    "id": "4",
+    "name": "Product D",
+    "price": 99.99,
+    "short_description": "A great product D.",
+    "detailed_description": "This is a detailed description of Product D.",
+    "stock": {"quantity": 25}
+}
+,{
+    "id": "5",
+    "name": "Product E",
+    "price": 59.99,
+    "short_description": "A great product E.",
+    "detailed_description": "This is a detailed description of Product E.",
+    "stock": {"quantity": 75}
+}]
