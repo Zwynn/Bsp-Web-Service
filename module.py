@@ -11,5 +11,12 @@ class Product(BaseModel):
     price: float
     short_description: str
     detailed_description: str
-    stock: Stock                #hier kommt pydantic ins Spiel
+    stock: Stock                            #hier kommt pydantic ins Spiel
 
+class ProductCreate(BaseModel):
+    id : int
+    name: str
+    price: float
+    short_description: str
+    detailed_description: str
+    stock : Stock
